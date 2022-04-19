@@ -50,8 +50,6 @@ class WelcomePage implements ActionListener{
         f.add(info);
         f.add(contact);
 
-        // f.add(new ImageComponent("E:\\Akanksha Amity\\Semester 4\\Java\\Presentation\\INQUISITIO.png"));
-
     }
 
     public void actionPerformed(ActionEvent e){
@@ -157,7 +155,7 @@ class EnterDetailsPage extends Frame implements ActionListener{
         add(label5);
         
         
-        add(new ImageComponent("E:\\Akanksha Amity\\Semester 4\\Java\\Presentation\\INQUISITIO.png"));
+        add(new ImageComponent("filepath"));
         setVisible(true);  
     }
 
@@ -228,7 +226,6 @@ class DifficultyLevelPage extends Frame {
         checkbox.setVisible(false);
         setVisible(true);  
 
-        // this.add(new ImageComponent("E:\\Akanksha Amity\\Semester 4\\Java\\Presentation\\INQUISITIO.png")); 
     }
 }
 
@@ -284,7 +281,6 @@ class QuestionsPage extends Frame implements ActionListener {
         setVisible(true);
         setSize(1000, 1000);
 
-        // add(new ImageComponent("E:\\Akanksha Amity\\Semester 4\\Java\\Presentation\\INQUISITIO.png"));
         
     }
 
@@ -418,9 +414,7 @@ class ThankYouPage {
       });
   
       frame.setVisible(true);
-  
-      // frame.add(new ImageComponent("E:\\Akanksha Amity\\Semester 4\\Java\\Presentation\\INQUISITIO.png"));
-          
+     
     }
   }
 

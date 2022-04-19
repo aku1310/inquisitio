@@ -12,7 +12,7 @@ This is a simple Quiz Game Web Application code done in Java using AWT and Swing
 ![Screenshot 6](./screenshots/6.png)
 ![Screenshot 7](./screenshots/7.png)
 
-## AUTHORS
+## Authors
 
 ### Akanksha Kushwaha
 - [Github](https://github.com/aku1310)
